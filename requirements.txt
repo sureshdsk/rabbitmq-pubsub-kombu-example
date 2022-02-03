@@ -1,0 +1,7 @@
+amqp==5.0.9
+cached-property==1.5.2
+importlib-metadata==4.10.1
+kombu==5.2.3
+typing-extensions==4.0.1
+vine==5.0.0
+zipp==3.7.0
